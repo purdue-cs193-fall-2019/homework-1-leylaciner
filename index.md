@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Leyla's First CS193 Homework
+
+Favorite Things About CS193:
+
+- No Finals/Midterms
+- Taught by undergraduate students (like us!)
+- Class size is not too big
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,14 +16,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 
-
-# Leyla's First CS193 Homework
-
-Favorite Things About CS193:
-
-- No Finals/Midterms
-- Taught by undergraduate students (like us!)
-- Class size is not too big
 
 
 ```
