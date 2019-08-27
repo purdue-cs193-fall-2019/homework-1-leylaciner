@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 
 
-**# Leyla's First CS193 Homework**
+# Leyla's First CS193 Homework
 
 Favorite Things About CS193:
 
